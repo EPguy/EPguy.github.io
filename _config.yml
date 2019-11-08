@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Kim Ju Seong
+tagline:          'Kim Ju Seong'
+description:      '대덕소프트웨어 마이스터고등학교 소프트웨어개발과 2학년 김주성'
+url:              http://epguy.github.io
+baseurl:          /
+
+author:
+  name:           'Kim Ju Seong'
+  url:            https://www.facebook.com/ssadhp
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/EPguy
